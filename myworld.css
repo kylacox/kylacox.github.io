@@ -1,0 +1,14 @@
+.clearfix{
+    overflow:auto;
+}
+.right{
+    float:right;
+    margin-left:6px;
+}
+.clear{
+    clear:both;
+}
+#container{
+    width:50%;
+    Margin: auto;
+}
